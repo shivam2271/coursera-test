@@ -1,10 +1,8 @@
 <!DOCTYPE html>
-<link rel="stylesheet" type="text/css" href="https://github.com/shivam2271/coursera-test/blob/d71ebd669edaef428d18fbd12ce59d2c85be207f/css/support.css">
+<link rel="stylesheet" type="text/css" href="https://github.com/shivam2271/coursera-test/css/support.css">
 <html>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
     <head>
-
-        <title>bhabhi ki jai</title>
+<title>bhabhi ki jai</title>
     </head>
     <body> <section class="header">
         <h1>BHABHI</h2>
